@@ -1,5 +1,6 @@
 ## namada-node-monitoring-bot 
 Simple external monitoring bot with telegram notification. The bot is external, so it is counting uptime and can detect if node became inaccessible. Bot fetch data once in 30 seconds.
+db.sh is a little persistent storage utility.
 
 ## Notification
 Node is unavailable
